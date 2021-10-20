@@ -13,7 +13,7 @@ export default function HomePage() {
 
     return (
         <>
-        <Header/>
+         <Header/>
             <div className="img_">
                 <div>
                     <img className="img1" src="https://www.pngkit.com/png/detail/256-2560533_web-design-mobile-websites-responsive-design-hd-banner.png" />
