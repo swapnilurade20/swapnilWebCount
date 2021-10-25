@@ -455,3 +455,14 @@ height: 40px;
   background-image: url("https://cdn.wallpapersafari.com/53/98/IP9C3G.jpg");
 
 }
+.imgsetter{
+  width: 100%;
+  height: 600px;
+  background-image: url("https://www.europarl.europa.eu/resources/library/images/20200121PHT70715/20200121PHT70715-cl.jpg");
+  color: #FFFF;
+}
+.aboutpageheader{
+  border-bottom: none;
+  font-family: 'akkurat-bold';
+  padding: 40px;
+}

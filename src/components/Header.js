@@ -13,7 +13,7 @@ const Header = () => {
                 </div>
                 <div className='right_second_header'>
                     <text>Contact us</text>
-                    <text className='right_subHeader'>swapnil@indonewsblogs.com</text>
+                    <text className='right_subHeader'>info@indonewsblogs.com</text>
                 </div>
             </div>
             <div className='path_header'>
@@ -32,7 +32,7 @@ const Header = () => {
                 <Link class="dropbtn" to="/Home">NEWS</Link>
                 </div>
                 <div class="dropdown">
-                <Link class="dropbtn" to="/Home">CONTACT</Link>
+                <Link class="dropbtn" to="/AboutUs">AboutUs</Link>
                 </div>
                 <div class="dropdown">
                 <Link class="dropbtn" to="/Wsocial">WSOCIAL</Link>
