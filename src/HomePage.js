@@ -16,19 +16,19 @@ export default function HomePage() {
          <Header/>
             <div className="img_">
                 <div>
-                    <img className="img1" src="https://www.pngkit.com/png/detail/256-2560533_web-design-mobile-websites-responsive-design-hd-banner.png" />
+                    <img className="img1" src="https://www.irislink.com/Partners/test/Menu2018/img/Image-company01.jpg" />
                 </div>
                 <div>
-                    <img className="img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDFF8rFH8B0Gq-KQ8SwCZ1NBNf-LB2a3L3bruBYNBdogZintxJJe992XaqrWe5t1fFZaI&usqp=CAU" />
+                    <img className="img1" src="https://images.livemint.com/img/2021/09/27/600x338/AFP_9DD4KZ_1629870213363_1632742003316.jpg" />
                 </div>
                 <div>
-                    <img className="img1" src="https://www.aphelionsoftwares.com/img/banner2new.jpg" />
+                    <img className="img1" src="https://www.businesssetup.com/sites/default/files/blog_images/10-reasons-to-set-up-a-holding-company-in-singapore.jpg" />
                 </div>
             </div>
             <div className="info">
                 <div className="centerDiv">
                     <div >
-                        <p className="intro_title">ABOUT US</p>
+                        <h1 className="intro_title">ABOUT US</h1>
                         <div className="set_width_info">
                             <h3 className="intro_sub_title">WE PROVIDE ROBUST & SECURE IT SOLUTIONS</h3>
 
