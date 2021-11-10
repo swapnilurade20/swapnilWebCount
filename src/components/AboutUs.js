@@ -25,8 +25,8 @@ const Aboutus = () => {
                 <div className="col">
                     <h1 className="aboutpageheader">Our Strategy</h1>
                     <p>
-                        On November 18, 2020, Wipro's CEO and MD,
-                        Thierry Delaporte and members of the Executive
+                        On November 18, 2020, FUTUREX's CEO and MD,
+                        Swapnil urade and members of the Executive
                         Leadership team presented a strategic plan to
                         investors and analysts. Watch the presentations
                         to learn how Wipro's bold new vision will
