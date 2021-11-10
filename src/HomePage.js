@@ -40,7 +40,7 @@ export default function HomePage() {
                         </div>
                         <div className="aline_icon">
 
-                            <img className="icon" src="https://static.wixstatic.com/media/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png/v1/fill/w_305,h_256,q_90/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png" />
+                            {/* <img className="icon" src="https://static.wixstatic.com/media/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png/v1/fill/w_305,h_256,q_90/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png" /> */}
                             <div className="content">
                                 <h3 >
                                     We make own products and distribution it platform like Google Play , windows app and web application
@@ -49,7 +49,7 @@ export default function HomePage() {
                         </div>
                         <div className="aline_icon">
 
-                            <img className="icon" src="https://static.wixstatic.com/media/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png/v1/fill/w_305,h_256,q_90/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png" />
+                            {/* <img className="icon" src="https://static.wixstatic.com/media/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png/v1/fill/w_305,h_256,q_90/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png" /> */}
                             <div className="content">
                                 <h3 >
                                     We like digital revolution in India by making an app and distribute to all over the India and make India self Reliance in digital technology
@@ -57,7 +57,7 @@ export default function HomePage() {
                             </div>
                         </div>
                         <div className="aline_icon">
-                            <img className="icon" src="https://static.wixstatic.com/media/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png/v1/fill/w_305,h_256,q_90/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png" />
+                            {/* <img className="icon" src="https://static.wixstatic.com/media/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png/v1/fill/w_305,h_256,q_90/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png" /> */}
                             <div className="content">
                                 <h3 >
                                     We want to make world largest creator platform where greater can share their views and thought to alert the world in their local language like French Germany in European language and American languages and also asian languages.
@@ -66,7 +66,7 @@ export default function HomePage() {
 
                         </div>
                         <div className="aline_icon">
-                            <img className="icon" src="https://static.wixstatic.com/media/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png/v1/fill/w_305,h_256,q_90/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png" />
+                            {/* <img className="icon" src="https://static.wixstatic.com/media/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png/v1/fill/w_305,h_256,q_90/2cd43b_3e630b6c32784430a451c605e21d2ef4~mv2.png" /> */}
                             <div className="content">
                                 <h3 >
                                     Creator and investor can contact us for more info in our product so that they can know about us more and they can invest their time and money in or platform
@@ -83,7 +83,7 @@ export default function HomePage() {
 
                         </div >
                         <div className="aline_icon">
-                            <img className="icon" src="https://www.pinclipart.com/picdir/big/421-4217223_drawn-arrow-crayon-cute-arrow-transparent-clipart.png" />
+                            {/* <img className="icon" src="https://www.pinclipart.com/picdir/big/421-4217223_drawn-arrow-crayon-cute-arrow-transparent-clipart.png" /> */}
                             <div className="content">
                                 <h3 >
                                     Future10 X Global Private Limited's last Annual General Meeting(AGM)
@@ -93,7 +93,7 @@ export default function HomePage() {
                             </div>
                         </div>
                         <div className="aline_icon">
-                            <img className="icon" src="https://www.pinclipart.com/picdir/big/421-4217223_drawn-arrow-crayon-cute-arrow-transparent-clipart.png" />
+                            {/* <img className="icon" src="https://www.pinclipart.com/picdir/big/421-4217223_drawn-arrow-crayon-cute-arrow-transparent-clipart.png" /> */}
                             <div className="content">
                                 <h3 >
                                    <p> INTEGRITY. Know and do what is right. Learn more.</p>
