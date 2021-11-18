@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 const Footer = () => {
     return (
@@ -12,28 +11,29 @@ const Footer = () => {
                         <p class="text-justify"> Future10 X Global Private Limited incorporated with MCA on 09 November 2020.
                         The Future10 X Global Private Limited is listed in the class of company and
                         classified as Non Govt Company. This company is registered at Registrar of Companies(ROC),
-                        Maharashtra with an Authorized Share Capital..</p>
+                        Maharashtra with an Authorized Share Capital of Rs. 1 LAC and its paid up capital is 1 LAC..</p>
                     </div>
 
                     <div class="col-xs-6 col-md-3">
                         <h6>Categories</h6>
                         <ul class="footer-links">
-                            <li><a href="">AI</a></li>
-                            <li><a href="">Machine Learning</a></li>
-                            <li><a href="">Space science</a></li>
-                            <li><a href="">International relationship</a></li>
-                            
+                            <li><a href="http://scanfcode.com/category/c-language/">C</a></li>
+                            <li><a href="http://scanfcode.com/category/front-end-development/">UI Design</a></li>
+                            <li><a href="http://scanfcode.com/category/back-end-development/">PHP</a></li>
+                            <li><a href="http://scanfcode.com/category/java-programming-language/">Java</a></li>
+                            <li><a href="http://scanfcode.com/category/android/">Android</a></li>
+                            <li><a href="http://scanfcode.com/category/templates/">Templates</a></li>
                         </ul>
                     </div>
 
                     <div class="col-xs-6 col-md-3">
                         <h6>Quick Links</h6>
                         <ul class="footer-links">
-                            <Link to="/AboutUs">About Us</Link>
-                            <li><a href="">Contact Us</a></li>
-                            <li><a href="">Contribute</a></li>
-                            <li><a href="">Privacy Policy</a></li>
-                       
+                            <li><a href="http://scanfcode.com/about/">About Us</a></li>
+                            <li><a href="http://scanfcode.com/contact/">Contact Us</a></li>
+                            <li><a href="http://scanfcode.com/contribute-at-scanfcode/">Contribute</a></li>
+                            <li><a href="http://scanfcode.com/privacy-policy/">Privacy Policy</a></li>
+                            <li><a href="http://scanfcode.com/sitemap/">Sitemap</a></li>
                         </ul>
                     </div>
                 </div>

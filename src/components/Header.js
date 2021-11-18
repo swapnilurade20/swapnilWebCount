@@ -1,10 +1,11 @@
 import React from 'react';
 import {Link} from "react-router-dom"
 
-const Header = () => {
+const Header=() =>
+{
     return (
         <>
-        <div className='App-header'>
+            <div className='App-header'>
                 <text className='h1'>Futurex.com INDIA</text>
             </div>
             <div className='second_header'>
@@ -23,19 +24,22 @@ const Header = () => {
                 </div>
 
                 <div class="dropdown">
-                <Link class="dropbtn" to="/Home">COMPANY</Link>
+                    <Link class="dropbtn" to="/Home">COMPANY</Link>
                 </div>
                 <div class="dropdown">
-                <Link class="dropbtn" to="/Home">SERVICES</Link>
+                    <Link class="dropbtn" to="/Services">SERVICES</Link>
                 </div>
                 <div class="dropdown">
-                <Link class="dropbtn" to="/Home">NEWS</Link>
+                    <Link class="dropbtn" to="/Home">NEWS</Link>
                 </div>
                 <div class="dropdown">
-                <Link class="dropbtn" to="/AboutUs">ABOUT US</Link>
+                    <Link class="dropbtn" to="/AboutUs">ABOUT US</Link>
                 </div>
                 <div class="dropdown">
-                <Link class="dropbtn" to="/Wsocial">WSOCIAL</Link>
+                    <Link class="dropbtn" to="/Wsocial">WSOCIAL</Link>
+                </div>
+                <div class="dropdown">
+                    <Link class="dropbtn" to="/Login">Login</Link>
                 </div>
             </div>
         </>
