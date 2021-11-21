@@ -282,13 +282,14 @@
 }
 /******************************************************************************************************/
 .con {
-  width: 838px;
+  width: 628px;
 }
 .footer {
   margin-top: 10px;
   height: 300px;
 }
 .row {
+  width: 100%;
   display: flex;
   justify-content: space-evenly;
 }
