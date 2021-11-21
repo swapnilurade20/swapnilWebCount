@@ -8,7 +8,8 @@
   color: white;
 }
 .h1 {
-  padding-left: 30px;
+  font-size: medium;
+  margin-left: 30px;
 }
 .second_header {
   width: 100%;
@@ -44,11 +45,11 @@
   border: 50px #f7a239;
 }
 
-/* img {
+.img {
   padding-left: 90px;
-  width: 100%;
+  width: 400px;
   height: 110px;
-} */
+}
 .pic {
   width: 200px;
   height: 80px;
@@ -282,7 +283,7 @@
 }
 /******************************************************************************************************/
 .con {
-  width: 628px;
+  width: 400px;
 }
 .footer {
   margin-top: 10px;

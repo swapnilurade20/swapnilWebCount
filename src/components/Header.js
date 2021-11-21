@@ -9,7 +9,7 @@ const Header = () => {
             </div>
             <div className='second_header'>
                 <div>
-                    <img className='img' src='https://techgardens.com/wp-content/uploads/2021/02/futurex.png'></img>
+                    <img className='img' src='https://linking-web.s3.ap-south-1.amazonaws.com/futurex_image.png'></img>
                 </div>
                 <div className='right_second_header'>
                     <text>Contact us</text>
