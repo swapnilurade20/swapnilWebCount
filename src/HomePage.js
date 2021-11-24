@@ -79,7 +79,6 @@ export default function HomePage() {
 
                         </div >
                         <div className="aline_icon">
-                            {/* <img className="icon" src="https://www.pinclipart.com/picdir/big/421-4217223_drawn-arrow-crayon-cute-arrow-transparent-clipart.png" /> */}
                             <div className="content">
                                 <h4 >
                                     Future10 X Global Private Limited's last Annual General Meeting(AGM)
@@ -89,7 +88,6 @@ export default function HomePage() {
                             </div>
                         </div>
                         <div className="aline_icon">
-                            {/* <img className="icon" src="https://www.pinclipart.com/picdir/big/421-4217223_drawn-arrow-crayon-cute-arrow-transparent-clipart.png" /> */}
                             <div className="content">
                                 <h4 >
                                    <p> INTEGRITY. Know and do what is right. Learn more.</p>
